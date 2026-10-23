@@ -1,2 +1,0 @@
-# BYTEGUARD
-BYTEGUARD game
